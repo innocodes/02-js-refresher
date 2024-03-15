@@ -156,3 +156,5 @@ title;
 author;
 pages;
 console.log(publicationDate);
+
+// Rest & Spread Operation
